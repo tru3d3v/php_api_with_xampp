@@ -1,0 +1,3 @@
+- Pre-requisite: Install docker desktop. http://docker.com/products/docker-desktop/
+- How to Run: docker-compose up -d --build
+- How to access : http://localhost/page_tampildata.php
