@@ -1,3 +1,3 @@
-- Pre-requisite: Install docker desktop. http://docker.com/products/docker-desktop/
+- Pre-requisite: Install docker desktop. http://docker.com/products/docker-desktop/ , create database db1 and  execute sql-schema.sql , sql-data.sql
 - How to Run: docker-compose up -d --build
 - How to access : http://localhost/page_tampildata.php
